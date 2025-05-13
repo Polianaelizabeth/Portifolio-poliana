@@ -4,7 +4,8 @@ Este é um site pessoal criado por **Poliana Elizabeth**, estudante de Análise 
 
 ## 🔗 Acesse o site
 
-[https://polianaelizabeth.github.io](https://polianaelizabeth.github.io)
+[https://polianaelizabeth.github.io/portifolio-poliana/](
+https://polianaelizabeth.github.io/portifolio-poliana/)
 
 ## ✨ Funcionalidades
 
